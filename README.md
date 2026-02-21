@@ -60,12 +60,4 @@ Win condition checking
 
 Basic AI move generation
 
-💡 Future Improvements
 
-Smarter AI (Minimax Algorithm)
-
-Score tracking
-
-Difficulty levels
-
-Better UI styling
